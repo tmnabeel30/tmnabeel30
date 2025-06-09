@@ -14,48 +14,19 @@
 
 ### ⚙️ Languages & Tools:
 
-<div align="center">
-
-  <div style="display: inline-block; width: 30%; margin: 1%;">
-    <img src="./assets/python.png" width="100" alt="Python"><br>
-    <strong>Python</strong>
-  </div>
-  <div style="display: inline-block; width: 30%; margin: 1%;">
-    <img src="./assets/swift.png" width="100" alt="Swift"><br>
-    <strong>Swift</strong>
-  </div>
-  <div style="display: inline-block; width: 30%; margin: 1%;">
-    <img src="./assets/sql.webp" width="100" alt="SQL"><br>
-    <strong>SQL</strong>
-  </div>
-
-  <div style="display: inline-block; width: 30%; margin: 1%;">
-    <img src="./assets/react.png" width="100" alt="React"><br>
-    <strong>React</strong>
-  </div>
-  <div style="display: inline-block; width: 30%; margin: 1%;">
-    <img src="./assets/langchain.png" width="100" alt="LangChain"><br>
-    <strong>LangChain</strong>
-  </div>
-  <div style="display: inline-block; width: 30%; margin: 1%;">
-    <img src="./assets/huggingface.png" width="100" alt="HuggingFace"><br>
-    <strong>HuggingFace</strong>
-  </div>
-
-  <div style="display: inline-block; width: 30%; margin: 1%;">
-    <img src="./assets/pytorch.png" width="100" alt="PyTorch"><br>
-    <strong>PyTorch</strong>
-  </div>
-  <div style="display: inline-block; width: 30%; margin: 1%;">
-    <img src="./assets/docker.png" width="100" alt="Docker"><br>
-    <strong>Docker</strong>
-  </div>
-  <div style="display: inline-block; width: 30%; margin: 1%;">
-    <img src="./assets/git.svg.png" width="100" alt="Git"><br>
-    <strong>Git</strong>
-  </div>
-
-</div>
+<p align="center">
+  <img src="./assets/python.png" alt="Python" width="80" style="margin: 15px;">
+  <img src="./assets/swift.png" alt="Swift" width="80" style="margin: 15px;">
+  <img src="./assets/sql.webp" alt="SQL" width="80" style="margin: 15px;">
+  <br>
+  <img src="./assets/react.png" alt="React" width="80" style="margin: 15px;">
+  <img src="./assets/langchain.png" alt="LangChain" width="80" style="margin: 15px;">
+  <img src="./assets/huggingface.png" alt="Hugging Face" width="80" style="margin: 15px;">
+  <br>
+  <img src="./assets/pytorch.png" alt="PyTorch" width="80" style="margin: 15px;">
+  <img src="./assets/docker.png" alt="Docker" width="80" style="margin: 15px;">
+  <img src="./assets/git.svg.png" alt="Git" width="80" style="margin: 15px;">
+</p>
 
 
 ---
