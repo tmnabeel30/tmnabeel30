@@ -1,6 +1,3 @@
-
-![Banner](./assets/banner.png)
-
 <div align="center">
 
 <h1>Hi 👋, I'm Nabeel Haque</h1>
