@@ -13,18 +13,15 @@
 
 
 ### ⚙️ Languages & Tools:
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![Swift](https://img.shields.io/badge/-Swift-FA7343?logo=swift)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=mysql)
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js)
-![LangChain](https://img.shields.io/badge/-LangChain-00FFAA)
-![Huggingface](https://img.shields.io/badge/-Huggingface-FFCC00?logo=huggingface)
-![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker)
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git)
+![Python](./assets/python.png)
+![Swift](./assets/swift.png)
+![SQL](./assets/sql.webp)
+![React](./assets/react.png)
+![LangChain](./assets/langchain.png)
+![Huggingface](./assets/huggingface.png)
+![PyTorch](./assets/pytorch.png)
+![Docker](./assets/docker.png)
+![Git](./assets/git.svg.png)
 
 
 ---
