@@ -13,15 +13,24 @@
 
 
 ### ⚙️ Languages & Tools:
-![Python](./assets/python.png)
-![Swift](./assets/swift.png)
-![SQL](./assets/sql.webp)
-![React](./assets/react.png)
-![LangChain](./assets/langchain.png)
-![Huggingface](./assets/huggingface.png)
-![PyTorch](./assets/pytorch.png)
-![Docker](./assets/docker.png)
-![Git](./assets/git.svg.png)
+
+<table>
+  <tr>
+    <td align="center"><img src="./assets/python.png" width="60" /><br>Python</td>
+    <td align="center"><img src="./assets/swift.png" width="60" /><br>Swift</td>
+    <td align="center"><img src="./assets/sql.webp" width="60" /><br>SQL</td>
+  </tr>
+  <tr>
+    <td align="center"><img src="./assets/react.png" width="60" /><br>React</td>
+    <td align="center"><img src="./assets/langchain.png" width="60" /><br>LangChain</td>
+    <td align="center"><img src="./assets/huggingface.png" width="60" /><br>Hugging Face</td>
+  </tr>
+  <tr>
+    <td align="center"><img src="./assets/pytorch.png" width="60" /><br>PyTorch</td>
+    <td align="center"><img src="./assets/docker.png" width="60" /><br>Docker</td>
+    <td align="center"><img src="./assets/git.svg.png" width="60" /><br>Git</td>
+  </tr>
+</table>
 
 
 ---
