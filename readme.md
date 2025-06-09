@@ -14,23 +14,17 @@
 
 ### ⚙️ Languages & Tools:
 
-<table>
-  <tr>
-    <td align="center"><img src="./assets/python.png" width="60" /><br>Python</td>
-    <td align="center"><img src="./assets/swift.png" width="60" /><br>Swift</td>
-    <td align="center"><img src="./assets/sql.webp" width="60" /><br>SQL</td>
-  </tr>
-  <tr>
-    <td align="center"><img src="./assets/react.png" width="60" /><br>React</td>
-    <td align="center"><img src="./assets/langchain.png" width="60" /><br>LangChain</td>
-    <td align="center"><img src="./assets/huggingface.png" width="60" /><br>Hugging Face</td>
-  </tr>
-  <tr>
-    <td align="center"><img src="./assets/pytorch.png" width="60" /><br>PyTorch</td>
-    <td align="center"><img src="./assets/docker.png" width="60" /><br>Docker</td>
-    <td align="center"><img src="./assets/git.svg.png" width="60" /><br>Git</td>
-  </tr>
-</table>
+<div align="center">
+  <img src="./assets/python.png" alt="Python" height="60">
+  <img src="./assets/swift.png" alt="Swift" height="60">
+  <img src="./assets/sql.webp" alt="SQL" height="60">
+  <img src="./assets/react.png" alt="React" height="60">
+  <img src="./assets/langchain.png" alt="LangChain" height="60">
+  <img src="./assets/huggingface.png" alt="Huggingface" height="60">
+  <img src="./assets/pytorch.png" alt="PyTorch" height="60">
+  <img src="./assets/docker.png" alt="Docker" height="60">
+  <img src="./assets/git.svg.png" alt="Git" height="60">
+</div>
 
 
 ---
