@@ -15,15 +15,17 @@
 ### ⚙️ Languages & Tools:
 
 <div align="center">
-  <img src="./assets/python.png" alt="Python" height="60">
-  <img src="./assets/swift.png" alt="Swift" height="60">
-  <img src="./assets/sql.webp" alt="SQL" height="60">
-  <img src="./assets/react.png" alt="React" height="60">
-  <img src="./assets/langchain.png" alt="LangChain" height="60">
-  <img src="./assets/huggingface.png" alt="Huggingface" height="60">
-  <img src="./assets/pytorch.png" alt="PyTorch" height="60">
-  <img src="./assets/docker.png" alt="Docker" height="60">
-  <img src="./assets/git.svg.png" alt="Git" height="60">
+  <img src="./assets/python.png" alt="Python" width="100" style="margin: 15px;">
+  <img src="./assets/swift.png" alt="Swift" width="100" style="margin: 15px;">
+  <img src="./assets/sql.webp" alt="SQL" width="100" style="margin: 15px;">
+  <br>
+  <img src="./assets/react.png" alt="React" width="100" style="margin: 15px;">
+  <img src="./assets/langchain.png" alt="LangChain" width="100" style="margin: 15px;">
+  <img src="./assets/huggingface.png" alt="Hugging Face" width="100" style="margin: 15px;">
+  <br>
+  <img src="./assets/pytorch.png" alt="PyTorch" width="100" style="margin: 15px;">
+  <img src="./assets/docker.png" alt="Docker" width="100" style="margin: 15px;">
+  <img src="./assets/git.svg.png" alt="Git" width="100" style="margin: 15px;">
 </div>
 
 
