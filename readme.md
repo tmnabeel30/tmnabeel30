@@ -1,16 +1,16 @@
-![Banner](./tmnabeel30/assets/banner.png)
+
+![Banner](./assets/banner.png)
 
 # Hi 👋, I'm Nabeel Haque
 
-🎓 3rd-year B.Tech CSE @ DTU  
-🤖 Passionate about AI, LLMOps, Prompt Engineering, and Front-End Dev  
+🎓 3rd-year B.Tech Computer Science student at DTU  
+🧠 I work at the intersection of LLMs, Prompt Engineering, and Front-End Development  
 
 ---
-
 ### 🔗 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/tmnabeel)
-
 ---
+
 
 ### ⚙️ Languages & Tools:
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python)
@@ -26,7 +26,11 @@
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker)
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git)
 
+
 ---
 
 ### 📊 GitHub Stats:
-![Stats](https://github-readme-stats.vercel.app/api?username=tmnabeel30&show_icons=true&theme=tokyonight&hide_title=true)
+![Nabeel's GitHub stats](https://github-readme-stats.vercel.app/api?username=tmnabeel30&show_icons=true&theme=tokyonight&hide_title=true)
+
+---
+
