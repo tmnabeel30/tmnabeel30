@@ -5,6 +5,13 @@
 
 🎓 3rd-year B.Tech Computer Science student at DTU  
 🧠 I work at the intersection of LLMs, Prompt Engineering, and Front-End Development  
+---
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=tmnabeel30&show_icons=true&theme=tokyonight&hide_title=true&count_private=true&hide_border=true" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tmnabeel30&layout=compact&theme=tokyonight&hide_border=true&hide_title=true&langs_count=8" width="45%" />
+</p>
 
 ---
 ### 🔗 Connect with me:
@@ -29,11 +36,4 @@
 </p>
 
 
----
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tmnabeel30&show_icons=true&theme=tokyonight&hide_title=true&count_private=true&hide_border=true" width="45%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tmnabeel30&layout=compact&theme=tokyonight&hide_border=true&hide_title=true&langs_count=8" width="45%" />
-</p>
 
