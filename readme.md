@@ -1,84 +1,32 @@
-![Header](https://your-image-host.com/banner.png)
+![Banner](./tmnabeel30/assets/banner.png)
 
 # Hi 👋, I'm Nabeel Haque
 
-🎓 3rd-year B.Tech student at Delhi Technological University  
-💡 iOS Developer • Machine Learning Enthusiast • LLMOps Explorer  
-⚙️ Building AI-powered tools & mobile apps that make life easier
+🎓 3rd-year B.Tech CSE @ DTU  
+🤖 Passionate about AI, LLMOps, Prompt Engineering, and Front-End Dev  
 
 ---
 
-## 🔗 Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/tmnabeel)  
-📫 Email: tmnabeel30@gmail.com  
-🌍 GitHub: [tmnabeel30](https://github.com/tmnabeel30)
+### 🔗 Connect with me:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/tmnabeel)
 
 ---
 
-## 🧠 Tech Stack & Tools
-
-![Swift](https://img.shields.io/badge/-Swift-FA7343?style=flat&logo=swift&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B)
-![Spring Boot](https://img.shields.io/badge/-Spring_Boot-6DB33F?style=flat&logo=spring-boot)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow)
-![React](https://img.shields.io/badge/-React-20232A?style=flat&logo=react)
-![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat&logo=next.js)
-![Langchain](https://img.shields.io/badge/-Langchain-00FFAA?style=flat)
-![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat&logo=opencv)
-![CoreData](https://img.shields.io/badge/-CoreData-000000?style=flat)
-![GCP](https://img.shields.io/badge/-Google_Cloud-4285F4?style=flat&logo=google-cloud)
-
----
-
-## 📌 Highlight Projects
-
-### 🧠 [Fluentify](https://github.com/tmnabeel30/Fluentify)
-> Language learning iOS app powered by AI (OpenAI API + SwiftUI)  
-🏆 2nd Place – DTU's Vihan Hackathon  
-📈 Improved engagement by 20%, built with team leadership & Agile practices  
-![Fluentify Screenshot](https://your-image-host.com/fluentify.png)
+### ⚙️ Languages & Tools:
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![Swift](https://img.shields.io/badge/-Swift-FA7343?logo=swift)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=mysql)
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js)
+![LangChain](https://img.shields.io/badge/-LangChain-00FFAA)
+![Huggingface](https://img.shields.io/badge/-Huggingface-FFCC00?logo=huggingface)
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker)
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git)
 
 ---
 
-### 💊 [SleekCare](https://github.com/tmnabeel30/Quizzlerr)
-> Medical note transcription assistant with LSTM, CoreData, UIKit  
-• Designed for hospital use – streamlined patient record entry  
-• Reduced UI friction by 40%, boosted satisfaction  
-![SleekCare Screenshot](https://your-image-host.com/sleekcare.png)
-
----
-
-### 👀 [Eye Typer](https://github.com/Vaibhav-ac/Eye-Typer)
-> Hands-free typing with face & eye movement tracking using OpenCV & Mediapipe  
-• Python + C++ Hybrid Project • Accessibility Focused  
-![Eye Typer Screenshot](https://your-image-host.com/eyetyper.png)
-
----
-
-## 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tmnabeel30&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tmnabeel30&layout=compact)
-
----
-
-## 🛠 What I’m Learning
-
-- Taking AI prototypes to production with **Langchain**, **LlamaIndex**, and **LLMOps**
-- Building production-ready systems using **GCP**, **Kafka**, and **MLOps pipelines**
-- Pushing iOS limits with **CoreML**, **AVFoundation**, and deep UIKit customization
-
----
-
-## 📚 Education
-
-**B.Tech in Mathematics & Computing**  
-Delhi Technological University (DTU), India  
-Expected Graduation: 2026
-
----
-
-Thanks for visiting! If you're building something interesting with AI or iOS—I'd love to connect.
+### 📊 GitHub Stats:
+![Stats](https://github-readme-stats.vercel.app/api?username=tmnabeel30&show_icons=true&theme=tokyonight&hide_title=true)
