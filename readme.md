@@ -1,11 +1,14 @@
 
 ![Banner](./assets/banner.png)
 
-# Hi 👋, I'm Nabeel Haque
+<div align="center">
 
-🎓 3rd-year B.Tech Computer Science student at DTU  
-🧠 I work at the intersection of LLMs, Prompt Engineering, and Front-End Development  
----
+<h1>Hi 👋, I'm Nabeel Haque</h1>
+
+<h3>🎓 3rd-year B.Tech Computer Science student at DTU</h3>
+<h3>🧠 I work at the intersection of LLMs, Prompt Engineering, and Front-End Development</h3>
+
+</div>
 ### 📊 GitHub Stats
 
 <p align="center">
